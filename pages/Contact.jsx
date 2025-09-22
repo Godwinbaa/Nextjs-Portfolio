@@ -171,7 +171,7 @@ export default function Contact() {
             {[
               { Icon: Linkedin, href: "https://www.linkedin.com/in/godwin-baa-325b71245/" },
               { Icon: Github, href: "https://github.com/Godwinbaa" },
-              { Icon: Twitter, href: "https://twitter.com" },
+              { Icon: Twitter, href: "" },
             ].map(({ Icon, href }, i) => (
               <motion.a
                 key={i}

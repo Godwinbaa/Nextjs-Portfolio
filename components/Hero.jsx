@@ -110,7 +110,7 @@ export default function Hero() {
         >
           <Link href="/About" className="relative group">
             <img
-              src="https://i.pravatar.cc/500?img=12"
+              src="/images/IMG_4952-2.jpg"
               alt="Portrait"
               className="w-56 h-80 md:w-64 md:h-96 object-cover shadow-xl border-4 border-gray-200 dark:border-gray-700 transition duration-500 group-hover:grayscale group-hover:opacity-70"
             />

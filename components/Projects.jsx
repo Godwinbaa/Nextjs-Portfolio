@@ -8,24 +8,24 @@ const projectsFont = Montserrat({ subsets: ["latin"], weight: "500" });
 export default function Projects() {
   const projectList = [
     {
-      title: "Project One",
-      description: "A modern web application built with Next.js and Tailwind.",
+      title: "E-Commerce Website - Mernstack Project",
+      description: "E-Commerce Website for Clothing Brand (with Admin Panel)",
       image: "/mockups/e-com.png",
       link: "https://fullstack-e-commerce-app-frontend.vercel.app/",
     },
     {
-      title: "Project Two",
+      title: "Chat-App Website - Mernstack Project",
       description:
-        "An interactive UI with smooth animations using Framer Motion.",
+        "A real-time chat app ",
       image: "/mockups/chat-app4.png",
       link: "#",
     },
     {
-      title: "Project Three",
+      title: "Admin-Dashboard - React frontend",
       description:
-        "Full stack project with MongoDB, Express, React, and Node.js.",
+        "Frontend Admin-dashboard mainly Focused in Practice",
       image: "/mockups/admin-dashboard.png",
-      link: "#",
+      link: "https://admin-dashboard-blue-kappa-15.vercel.app/",
     },
     {
       title: "Project Four",

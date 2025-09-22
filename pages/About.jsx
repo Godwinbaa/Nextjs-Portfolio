@@ -117,7 +117,7 @@ export default function AboutPage() {
               About Me
             </h1>
             <p
-              className="text-2xl leading-relaxed"
+              className="text-3xl leading-relaxed"
               style={{ fontFamily: "Caveat, sans-serif" }}
             >
               I am a passionate Full Stack Developer based in New Delhi, eager
@@ -131,9 +131,9 @@ export default function AboutPage() {
           </div>
           <div className="flex justify-center">
             <img
-              src="https://picsum.photos/350/450"
+              src="/images/IMG_3501_1.jpg"
               alt="My photo"
-              className="rounded-lg object-cover w-[350px] h-[450px] mt-8"
+              className=" object-cover w-[350px] h-[450px] mt-8"
             />
           </div>
         </section>
