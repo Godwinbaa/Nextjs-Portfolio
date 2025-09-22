@@ -117,7 +117,7 @@ export default function AboutPage() {
               About Me
             </h1>
             <p
-              className="text-3xl leading-relaxed"
+              className="text-2xl leading-relaxed"
               style={{ fontFamily: "Caveat, sans-serif" }}
             >
               I am a passionate Full Stack Developer based in New Delhi, eager
