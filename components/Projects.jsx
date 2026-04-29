@@ -30,7 +30,7 @@ export default function Projects() {
     {
       title: "Mavix.AI - PERN Stack Project",
       description: "Built a full-stack AI SaaS platform with multiple AI-powered tools",
-      image: "/mockups/newpro.png",
+      image: "/mockups/mavix.png",
       link: "https://mavix-ai-gamma.vercel.app/",
     },
   ];
