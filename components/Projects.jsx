@@ -18,7 +18,7 @@ export default function Projects() {
       description:
         "A real-time chat app ",
       image: "/mockups/chat-app4.png",
-      link: "#",
+      link: "https://chat-app-7pv0.onrender.com/",
     },
     {
       title: "Admin-Dashboard - React frontend",
@@ -28,10 +28,10 @@ export default function Projects() {
       link: "https://admin-dashboard-blue-kappa-15.vercel.app/",
     },
     {
-      title: "Project Four",
-      description: "Another creative project to showcase skills.",
+      title: "Mavix.AI - PERN Stack Project",
+      description: "Built a full-stack AI SaaS platform with multiple AI-powered tools",
       image: "/mockups/newpro.png",
-      link: "#",
+      link: "https://mavix-ai-gamma.vercel.app/",
     },
   ];
 
