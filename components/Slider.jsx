@@ -9,7 +9,7 @@ const logos = [
   "/logos/java-script.png",
   "/logos/nodejs.svg",
   "/logos/figma.png",
-  "/logos/Tailwind css.png",
+  "/logos/Tailwind_css.png",
   "/logos/Nextjs.svg", // 👈 special handling
   "/logos/framer.svg", // 👈 special handling
   "/logos/formspree.png",  
