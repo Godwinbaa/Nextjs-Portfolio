@@ -92,7 +92,7 @@ export default function Navbar() {
             </li>
             <li>
               <a
-                href="/RESUME4.pdf"
+                href="/Godwin_resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-3 py-2 rounded-lg text-black dark:text-white flex items-center justify-center transition-colors duration-300 hover:text-gray-500"
