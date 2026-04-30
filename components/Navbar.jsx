@@ -153,7 +153,7 @@ export default function Navbar() {
               Contact
             </Link>
             <a
-              href="/RESUME4.pdf"
+              href="/Godwin_resume.pdf"
               download
               className="text-gray-800 dark:text-gray-200 hover:text-gray-500 flex items-center"
               onClick={closeMenu}
